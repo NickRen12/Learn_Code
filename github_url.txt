@@ -1,0 +1,4 @@
+https://github.com/NickRen12/Learn_Code/blob/main/readme.md
+
+// # To add things to readme.md
+// ## Search up page cmds to edit font, size, and etc.
