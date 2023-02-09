@@ -1,12 +1,52 @@
 <!DOCTYPE html>
 <html>
 
-<heading>
-  <p align="center"> New Assignment </p>
-</heading>
-  
-<body>  
-<p2 style="color:red"> Colored Text for the Assignment </p2>
 
-<p3> Using subcripts and supscripts, VO<sub>2</sub> and A<sup>2</sup> + B<sup>2</sup> = C<sup>2</sup>.
+
+<head>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bangers&display=swap" rel="stylesheet">
+  
+<p align="center"> 2019 GT3 RS </p>
+
+</head>
+
+  <style>
+	p {background-color:black}
+	p {color:green}
+	p {font-family: 'Bangers', cursive;}
+	p {font-size:250%}
+  </style>
+  
+<body> 
+
+<img src="C:\Users\Alex\Documents\Projects\GT3rs.jpg" alt="sexy car" style="width:400px;height:265px;">
+
+<style>
+	img {float: right;}
+</style> 
+
+	<br>
+
+<p2 style="color:green">&#x2022; Coloured Text for the Assignment </p2>
+	
+	<br>
+	<br>
+
+<p3 style="color:green">&#x2022; Using subcripts and supscripts, V̇O<sub>2</sub> and A<sup>2</sup> + B<sup>2</sup> = C<sup>2</sup> </p3>
+
+	<br>
+	<br>
+
+<a href="C:\Users\Alex\Documents\Projects\GT3rs.jpg">
+	<button>View Image</button>
+</a>
+	<style>
+		button {font-family: 'Bangers', cursive;}
+		button {font-size:200%}
+	</style>
+
 </body>
+</html>
