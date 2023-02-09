@@ -12,9 +12,8 @@
     <br>
     <a href="https://www.toptal.com/designers/htmlarrows/symbols/"> This is a Link for the Symbols </a>
     <br>
-    <a href="C:\Users\Alex\Documents\Projects">
-      <img src="https://cdn.motor1.com/images/mgl/8bpn2/s1/4x3/2018-porsche-911-gt3-rs.webp" alt="GT3 RS" style="float:right;width:160px;height:120px;">
-    </a>
+    <img src="https://cdn.motor1.com/images/mgl/8bpn2/s1/4x3/2018-porsche-911-gt3-rs.webp" alt="GT3 RS" style="float:right;width:160px;height:120px;">
+    <button>View Image</button>
   </body>
   
 </html>
