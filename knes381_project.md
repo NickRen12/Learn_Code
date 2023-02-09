@@ -17,4 +17,3 @@
   
 </html>
 
-$${\color{green}Text in a different color.}$$
