@@ -1,12 +1,19 @@
 <!DOCTYPE html>
-<html>
-
-<heading>
-  <p align="center"> New Assignment </p>
-</heading>
+<html lang="en-US">
   
-<body>  
-<p2 style="color:red"> Colored Text for the Assignment </p2>
+  <head>
+    <h1 align="center"> KNES 381 HTML Assignment </h1>
+  </head>
+  
+  <body>
+    <p1 style="color:green;"> &#x2022 Text in a different colour.</p1>
+    <br>
+    <p2>&#x2022 Text using a subscript. Eg. VO<sub>2</sub>.</p2>
+    <br>
+    <a href="https://www.toptal.com/designers/htmlarrows/symbols/"> This is a Link for the Symbols </a>
+    <br>
+    <img src="https://cdn.motor1.com/images/mgl/8bpn2/s1/4x3/2018-porsche-911-gt3-rs.webp" alt="GT3 RS" style="float:right;width:160px;height:120px;">
+  </body>
+  
+</html>
 
-<p3> Using subcripts and supscripts, VO<sub>2</sub> and A<sup>2</sup> + B<sup>2</sup> = C<sup>2</sup>.
-</body>
