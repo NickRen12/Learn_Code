@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-US">
   
   <head>
     <h1 align="center"> KNES 381 HTML Assignment </h1>
