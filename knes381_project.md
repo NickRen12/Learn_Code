@@ -2,7 +2,7 @@
 
 <img align="right" src="https://cdn.motor1.com/images/mgl/8bpn2/s1/4x3/2018-porsche-911-gt3-rs.webp" alt="GT3 RS" width="220" height="160">
 
-<p1 style="color:green;">Text in a different colour.</p1>
+$color{green}\r$
 
 <p2>Text using a subscript. Eg. VO<sub>2</sub>.</p2>
 
