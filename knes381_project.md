@@ -2,8 +2,8 @@
 
 <img align="right" src="https://cdn.motor1.com/images/mgl/8bpn2/s1/4x3/2018-porsche-911-gt3-rs.webp" alt="GT3 RS" width="220" height="160">
 
-$color{green}\r$
-
 <p2>Text using a subscript. Eg. VO<sub>2</sub>.</p2>
 
 <a href="https://www.toptal.com/designers/htmlarrows/symbols/"> This is a Link for the Symbols </a>
+
+$${\color{green}Green}$$
