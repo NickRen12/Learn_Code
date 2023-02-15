@@ -6,6 +6,8 @@
 
 <a href="https://www.toptal.com/designers/htmlarrows/symbols/"> This is a Link for the Symbols </a>
 
-$${\color{green}Green}$$
+Best color for a GT3 RS is ${\color{green}Green}$
 
 V&#775'
+
+<a href = "https://github.com/NickRen12/Learn_Code/blob/main/readme.md"> Link to other .md file. </a>
